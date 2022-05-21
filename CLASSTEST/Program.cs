@@ -10,6 +10,8 @@ namespace CLASSTEST
     {
         static void Main(string[] args)
         {
+           HarmonicNumber harmonicNumber  = new HarmonicNumber();
+           
         }
     }
 }
