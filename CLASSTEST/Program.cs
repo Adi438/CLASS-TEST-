@@ -11,7 +11,9 @@ namespace CLASSTEST
         static void Main(string[] args)
         {
            HarmonicNumber harmonicNumber  = new HarmonicNumber();
-           
+            harmonicNumber.Harmonic();
+           Factors factors = new Factors();
+            factors.Fact();
         }
     }
 }
