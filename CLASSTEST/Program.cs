@@ -14,6 +14,8 @@ namespace CLASSTEST
             harmonicNumber.Harmonic();
            Factors factors = new Factors();
             factors.Fact();
+            Palindrome palindrome = new Palindrome();
+            palindrome.Palin();
         }
     }
 }
